@@ -1,2 +1,2 @@
 # NeetCodeProblems
- Solved problem of neet code
+ Solved problems of neet code
